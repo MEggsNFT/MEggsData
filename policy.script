@@ -3,7 +3,7 @@
   "scripts": [
     { "slot": 36000000, "type": "before" },
     {
-      "keyHash": "b519c4dddb24d1c2797cbd78cf72ca6ab12504a0c459933d7474167c",
+      "keyHash": "4e3ed5392cec1c07c1db3da29370b63bf0fb18182f32f5a72b6060d6",
       "type": "sig"
     }
   ]
